@@ -1,7 +1,7 @@
 # Olá, me chamo Virlania! ☕️
 
 - 👩🏽‍🎓 Sou Técnica em informática e graduanda em Sistemas da Informação.
-- 📚 Atualmente meu foco de estudos tem sido Mobile Android, com Kotlin 
+- 📚 Atualmente meu foco de estudos tem sido Mobile Android, com Kotlin & Linguagem C  
 - RN 🩵 BR
 
 <div align="center">
